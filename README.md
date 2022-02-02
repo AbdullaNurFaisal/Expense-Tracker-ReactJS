@@ -1,3 +1,6 @@
+Practice ReactJS project utilizing Context API, useReducer, useState, functional components etc.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
